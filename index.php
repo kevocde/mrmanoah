@@ -7,13 +7,13 @@
     <title>Servicio Tecnico Panama(ciudad) | Mr. Manoah, instalacion, Mantenimiento y Reparacion de electrodomesticos</title>
     <meta name="description" content="UX designer and web developer" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon" />
 
     <!-- Carga de librerías -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" />
-    <link rel="stylesheet" property="stylesheet" id="theme" href="css/jquery-ui-1.8.16.custom.css" type="text/css" media="all" />
-    <link rel="stylesheet" property="stylesheet" href="css/lightbox.min.css" type="text/css" media="all" />
+    <link rel="stylesheet" property="stylesheet" id="theme" href="assets/css/jquery-ui-1.8.16.custom.css" type="text/css" media="all" />
+    <link rel="stylesheet" property="stylesheet" href="assets/css/lightbox.min.css" type="text/css" media="all" />
 
     <!-- Carga de fuentes -->
     <link href="//fonts.googleapis.com/css?family=Raleway:400,300,200,500,600,700,800,100" rel="stylesheet" type="text/css" />
@@ -21,8 +21,8 @@
     <link href="//fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
 
     <!-- Estilos propios del sitio -->
-    <link rel="stylesheet" type="text/css" media="screen" href="css/main.css" />
-    <link rel="stylesheet" href="css/whatsapp.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="assets/css/main.css" />
+    <link rel="stylesheet" href="assets/css/whatsapp.css" />
 </head>
 <body onLoad="load()" onUnload="GUnload()">
 <!--whatsapp float up-->
@@ -42,7 +42,7 @@
                         <div class="navbar navbar-inverse navbar-static-top">
                             <div class="container">
                                 <div class="logo">
-                                    <a href="#"><img src="images/logo.png" height="66" style="margin-top: -18px;" /> </a>
+                                    <a href="#"><img src="assets/images/logo.png" height="66" style="margin-top: -18px;" /> </a>
                                     <p style="margin-top: -4px; color: black; font-size: 14px;">contacto 6207-1466</p>
                                 </div>
                                 <nav class="navArea">
@@ -76,7 +76,7 @@
             <div class="col-xs-12 col-sm-6 col-md-12 col-lg-12 noPadd slides-container" style="height: 100%;">
                 <!--background slide show start-->
                 <div class="slide">
-                    <img src="images/banner/fondoPrincipal2.2.jpg" />
+                    <img src="assets/images/banner/fondoPrincipal2.2.jpg" />
                 </div>
 
                 <div class="slide">
@@ -94,7 +94,7 @@
                         </div>
                     </div>
                     <!--header text2 end-->
-                    <img src="images/banner/fondo5.jpg" />
+                    <img src="assets/images/banner/fondo5.jpg" />
                 </div>
                 <!--background slide show end-->
             </div>
@@ -141,15 +141,15 @@
                 <h3></h3>
                 <div class="contenedor">
                     <div class="info-imagen">
-                        <img src="images/banner/instalacion3.jpg" />
+                        <img src="assets/images/banner/instalacion3.jpg" />
                         <h4>INSTALACION</h4>
                     </div>
                     <div class="info-imagen">
-                        <img src="images/banner/mantenimiento1.jpg" />
+                        <img src="assets/images/banner/mantenimiento1.jpg" />
                         <h4>MANTENIMIENTO</h4>
                     </div>
                     <div class="info-imagen">
-                        <img src="images/banner/reparacion1.png" />
+                        <img src="assets/images/banner/reparacion1.png" />
                         <h4>REPARACION</h4>
                     </div>
                 </div>
@@ -321,7 +321,7 @@
             <!--Short intro start-->
             <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
                 <h5 class="head">Mr. Manoah Servicio Tecnico</h5>
-                <img src="images/banner/fondo2.jpg" width="145" height="145" />
+                <img src="assets/images/banner/fondo2.jpg" width="145" height="145" />
             </div>
 
             <!--Short intro end-->
@@ -406,19 +406,19 @@
 <!-- Carga de las librerías -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script>
-<script type="text/javascript" src="js/modernizr.custom.26633.js"></script>
-<script type="text/javascript" src="js/jquery.placeholder.js"></script>
-<script type="text/javascript" src="js/stickUp.js"></script>
-<script src="js/jquery.superslides.js" type="text/javascript" charset="utf-8"></script>
-<script src="js/jquery.isotope.js" type="text/javascript"></script>
-<script type="text/javascript" src="js/jquery.ui.widget.min.js"></script>
-<script type="text/javascript" src="js/jquery.ui.rlightbox.js"></script>
-<script type="text/javascript" src="js/jquery.contact.js"></script>
-<script defer src="js/jquery.flexslider.js"></script>
-<script type="text/javascript" src="js/jquery.countTo.js"></script>
-<script src="js/jquery.easing.js"></script>
-<script src="js/jquery.mousewheel.js"></script>
-<script defer src="js/slideroption.js"></script>
+<script type="text/javascript" src="assets/js/modernizr.custom.26633.js"></script>
+<script type="text/javascript" src="assets/js/jquery.placeholder.js"></script>
+<script type="text/javascript" src="assets/js/stickUp.js"></script>
+<script src="assets/js/jquery.superslides.js" type="text/javascript" charset="utf-8"></script>
+<script src="assets/js/jquery.isotope.js" type="text/javascript"></script>
+<script type="text/javascript" src="assets/js/jquery.ui.widget.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.ui.rlightbox.js"></script>
+<script type="text/javascript" src="assets/js/jquery.contact.js"></script>
+<script defer src="assets/js/jquery.flexslider.js"></script>
+<script type="text/javascript" src="assets/js/jquery.countTo.js"></script>
+<script src="assets/js/jquery.easing.js"></script>
+<script src="assets/js/jquery.mousewheel.js"></script>
+<script defer src="assets/js/slideroption.js"></script>
 <script src="//maps.google.com/maps?file=api&amp;v=2.x&amp;key=ABQIAAAAjU0EJWnWPMv7oQ-jjS7dYxSPW5CJgpdgO_s4yyMovOaVh_KvvhSfpvagV18eOyDWu7VytS6Bi1CWxw" type="text/javascript"></script>
 <script type="text/javascript">
     $("#banner").superslides({
@@ -546,6 +546,6 @@
     });
 </script>
 <!--for theme custom jquery-->
-<script src="js/custom.js"></script>
+<script src="assets/js/custom.js"></script>
 </body>
 </html>

@@ -3,7 +3,7 @@
 <head>
     <title></title>
     <meta charset="utf-8">
-    <link rel="stylesheet" type="text/css" href="../css/beneficios.css">
+    <link rel="stylesheet" type="text/css" href="../assets/css/beneficios.css">
 </head>
 <body>
     <section id="info">
