@@ -410,7 +410,7 @@
 <script type="text/javascript" src="assets/js/jquery.placeholder.js"></script>
 <script type="text/javascript" src="assets/js/stickUp.js"></script>
 <script src="assets/js/jquery.superslides.js" type="text/javascript" charset="utf-8"></script>
-<script src="assets/js/jquery.isotope.js" type="text/javascript"></script>
+<script src="assets/js/jquery.isotope.min.js" type="text/javascript"></script>
 <script type="text/javascript" src="assets/js/jquery.ui.widget.min.js"></script>
 <script type="text/javascript" src="assets/js/jquery.ui.rlightbox.js"></script>
 <script type="text/javascript" src="assets/js/jquery.contact.js"></script>
